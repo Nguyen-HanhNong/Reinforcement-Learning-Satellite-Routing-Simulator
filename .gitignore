@@ -1,0 +1,6 @@
+mas_sim/
+test/
+__pycache__
+*.png
+*.json
+performance/
